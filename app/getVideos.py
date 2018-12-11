@@ -10,7 +10,7 @@ from debug import *
 SCOPES = ['https://www.googleapis.com/auth/youtube.force-ssl']
 API_SERVICE_NAME = 'youtube'
 API_VERSION = 'v3'
-DEVELOPER_KEY = "AIzaSyA9Ka0KQ5xSNfVKISUaBRRpy7FrOxooFp0"
+DEVELOPER_KEY = ""
 channelIds = []
 
 client = build(API_SERVICE_NAME, API_VERSION, developerKey=DEVELOPER_KEY)
