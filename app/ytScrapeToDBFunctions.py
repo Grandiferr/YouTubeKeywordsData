@@ -8,7 +8,7 @@ from debug import *
 SCOPES = ['https://www.googleapis.com/auth/youtube.force-ssl']
 API_SERVICE_NAME = 'youtube'
 API_VERSION = 'v3'
-DEVELOPER_KEY = "AIzaSyA9Ka0KQ5xSNfVKISUaBRRpy7FrOxooFp0"
+DEVELOPER_KEY = ""
 
 #last 30 days of youtube videos titles from every channel in the database
 #get list of youtube videos
