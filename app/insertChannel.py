@@ -11,7 +11,7 @@ from debug import *
 SCOPES = ['https://www.googleapis.com/auth/youtube.force-ssl']
 API_SERVICE_NAME = 'youtube'
 API_VERSION = 'v3'
-DEVELOPER_KEY = "AIzaSyA9Ka0KQ5xSNfVKISUaBRRpy7FrOxooFp0"
+DEVELOPER_KEY = ""
 
 #INSERTS CHANNEL INFORMATION INTO KC DATABASE
 # #NOTE: YOUTUBE HAS 2 DIFFERENT ID TYPES, USER AND CHANNEL
